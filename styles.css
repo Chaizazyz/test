@@ -1,0 +1,6 @@
+body {
+    padding: 20px;
+}
+#canvasOutput {
+    border: 1px solid black;
+}
